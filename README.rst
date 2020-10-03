@@ -20,7 +20,7 @@ Pygorithm
    :alt: Python 3.6
    
 .. image:: https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg 
-   :target: https://saythanks.io/to/OmkarPathak
+   :target: https://saythanks.io/to/omkarpathak27@gmail.com
    :alt: Say Thanks!
    
 .. image:: https://img.shields.io/github/contributors/omkarpathak/pygorithm.svg
@@ -29,6 +29,10 @@ Pygorithm
 
 | A Python module to learn all the major algorithms on the go!
 | Purely for educational purposes
+
+
+.. image:: https://images.gitads.io/pygorithm
+   :target: https://tracking.gitads.io/?campaign=gitads&repo=pygorithm&redirect=gitads.io
 
 Features
 ~~~~~~~~
